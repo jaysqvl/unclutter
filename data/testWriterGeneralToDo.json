@@ -1,0 +1,21 @@
+{
+    "ListOfLists": [
+        {
+            "listName": "list1",
+            "tasks": [{
+                "date": "2020-01-01",
+                "importance": 10,
+                "task name": "task1"
+            }]
+        },
+        {
+            "listName": "list2",
+            "tasks": [{
+                "date": "2020-01-01",
+                "importance": 10,
+                "task name": "task1"
+            }]
+        }
+    ],
+    "ToDo instance": "Save1"
+}

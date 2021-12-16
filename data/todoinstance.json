@@ -1,0 +1,21 @@
+{
+    "ListOfLists": [
+        {
+            "listName": "Workout Plan",
+            "tasks": []
+        },
+        {
+            "listName": "Homework",
+            "tasks": [{
+                "date": "2021/11/26",
+                "importance": 10,
+                "task name": "Finish CS Project"
+            }]
+        },
+        {
+            "listName": "Test",
+            "tasks": []
+        }
+    ],
+    "ToDo instance": "Save1"
+}
