@@ -13,8 +13,6 @@ Features:
 * save my to-do lists to a file
 * open to-do lists from a file (read somebody elses list or open your own on another device)
 
-**PHASE 4: Task 2**
-
 *To Do App Sample Event Log*
 
 > Fri Nov 26 06:52:15 PST 2021
