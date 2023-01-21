@@ -4,8 +4,6 @@ A java to-do list application inspired by the features of google calendar and th
 
 Unclutter is a task manager with the additional (optional but recommended) metrics for sorting your important tasks.
 
-![Unclutter](https://raw.githubusercontent.com/jsqvl/To-do-list/main/data/logo.gif)
-
 ## Demonstration
 ![Unclutter](https://github.com/jsqvl/Unclutter/blob/main/data/Unclutter-demo-compressed.gif?raw=true)
 
