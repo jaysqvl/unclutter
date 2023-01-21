@@ -6,6 +6,9 @@ Unclutter is a task manager with the additional (optional but recommended) metri
 
 ![Unclutter](https://raw.githubusercontent.com/jsqvl/To-do-list/main/data/logo.gif)
 
+## Demonstration
+![Unclutter](https://github.com/jsqvl/Unclutter/blob/main/data/Unclutter-demo-compressed.gif?raw=true)
+
 ## Instructions
 OPTION 1:
 1. Navigate to the projects jar build directory (or build it yourself) "out/artifacts/main.jar"
