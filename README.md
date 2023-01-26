@@ -7,6 +7,23 @@ Unclutter is a task manager with the additional (optional but recommended) metri
 ## Demonstration
 ![Unclutter](https://github.com/jsqvl/Unclutter/blob/main/data/Unclutter-demo-compressed.gif?raw=true)
 
+## Implementation Features:
+* Complete JUnit test suite
+* Simple object-oriented design with case appropriate design pattern (e.g. Singleton Design Pattern for EventLogging)
+* Fully organized project file structure (MVC design principles)
+* Uses JSON to save instances and automatically reload them
+* Complete GUI (Buildable for execution)
+
+## UI/UX Features:
+* Multiple to-do lists to keep track of different categories
+* Mark a task as complete but not necessarily delete it
+* Add, remove and shuffle tasks in terms of importance
+* Sort tasks based on completion
+* Importance weight to items in the todo list where it adds the task based on the importance on a scale of 1 to 10
+* Due date to tasks but not necessary to have one
+* Save my to-do lists to a file
+* Open to-do lists from a file (read somebody elses list or open your own on another device)
+
 ## Instructions
 OPTION 1:
 1. Navigate to the projects jar build directory (or build it yourself) "out/artifacts/main.jar"
@@ -48,17 +65,7 @@ principles. From the test-suite and software construction patterns to UML Design
 * Simple List Manager
   * Insert items without a due date or importance
 
-## Features:
-* Multiple to-do lists to keep track of different categories
-* Mark a task as complete but not necessarily delete it
-* Add, remove and shuffle tasks in terms of importance
-* Sort tasks based on completion
-* Importance weight to items in the todo list where it adds the task based on the importance on a scale of 1 to 10
-* Due date to tasks but not necessary to have one
-* Save my to-do lists to a file
-* Open to-do lists from a file (read somebody elses list or open your own on another device)
-
-*To Do App Sample Event Log*
+## To Do App Sample Event Log
 
 > Fri Nov 26 06:52:15 PST 2021
 New List Inserted At Index: 0
